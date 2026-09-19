@@ -4,4 +4,4 @@ numpy>=1.24,<3
 scikit-learn>=1.3,<2
 plotly>=5.18,<7
 joblib>=1.3,<2
-nassau-candy-analysis @ git+https://github.com/SHIVANSHU073/nassau-candy-analysis.git@main
+nassau-candy-analysis @ git+https://github.com/SHIVANSHU073/nassau-candy-analysis.git@47addf4da958fa2519aaf39de7e9a7ccaef307f4
